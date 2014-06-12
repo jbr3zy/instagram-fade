@@ -1,0 +1,7 @@
+Django==1.6.5
+Pillow==2.4.0
+httplib2==0.8
+image==1.3.2
+python-instagram==0.8.0
+requests==2.3.0
+simplejson==3.4.0
